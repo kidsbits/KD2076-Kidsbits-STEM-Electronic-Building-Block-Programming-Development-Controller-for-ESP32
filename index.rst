@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KD2076 Kidsbits STEM Electronic Building Block Programming Development Controller
+   :caption: contents:
 
    docs/KD2076.md
 
